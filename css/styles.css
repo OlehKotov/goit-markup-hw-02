@@ -1,0 +1,101 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFF;
+    color: #2E2F42;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    font-style: normal;
+    font-weight: 400;
+}
+a {
+    text-decoration: none;
+    font-style: normal;
+    color: #2E2F42;
+}
+ul {
+    list-style-type: none;
+}
+
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16667;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: #2E2F42;
+    }
+.logo > span{
+    color: #4D5AE5;
+}
+.navigation > ul {
+    font-weight: 500;
+}
+.navigation a:active {
+    color: #404BBF;
+}
+address a:active {
+    color: #404BBF;
+} 
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11111; 
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+.section-head {
+    background-color: #2E2F42;
+    color: #FFF;
+    text-align: center;
+}
+.section-head .page-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07143;
+    letter-spacing: 1.12px;
+}
+.section-head button {
+    background-color: #4D5AE5;
+    color: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+.section-head button:hover {
+    background-color: #404BBF;
+}
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+}
+.section-title {
+    text-align: center;
+}
+.section-ourteam {
+    background-color: #F4F4FD;
+}
+.section-ourteam .title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2; /* 120% */
+    letter-spacing: 0.4px;
+}
+footer {
+    background-color: #2E2F42;
+    color: #FFF;
+}
+footer .logo {
+    color: #FFF;
+}
+
+
+
+
